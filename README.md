@@ -1,4 +1,9 @@
 # RoboclawCpp
 
+Use to control the [Basicmicro Roboclaw DC Motor Controllers](https://www.basicmicro.com/motor-controller)
 
-This is the official RoboClaw Arduino library. Included is the library itself as well as examples of the library in use.
+Based off of the [RoboClaw Arduino library](https://github.com/basicmicro/roboclaw_arduino_library/tree/master)
+
+Cross-compatible with Linux and Windows using [Serialib libary](https://github.com/imabot2/serialib/tree/master)
+
+
